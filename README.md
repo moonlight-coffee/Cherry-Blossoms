@@ -1,7 +1,7 @@
 <h3 align="center">
 	<img src="https://github.com/moonlight-coffee.png"  height="240" alt="header"/><br/></h3>
 
-<h2 align="center"> ~ happypinky dotfiles ~ </h2>
+<h2 align="center"> ~ cherry-blossoms dotfiles ~ </h2>
 
 <div align="center">
     <p></p>
