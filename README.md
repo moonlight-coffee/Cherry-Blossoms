@@ -43,6 +43,11 @@ hope you like it ^^
 - **MUSIC-PLAYER** : [mpd](https://www.musicpd.org/) 🎵
 - **WEB-BROWSER** : firefox 🦊 
 
+	SOme tutorial:
+1) put all the files in .config folder
+2) the .fonts folder put in home folder
+	i think thats all
+GOOD LUCK ^^
 <!-- ## Screenshots 🖼️ -->
 
 ## credits
