@@ -56,6 +56,4 @@ hope you like it ^^
 GOOD LUCK ^^
 <!-- ## Screenshots 🖼️ -->
 
-## credits
-thanks for help
-saimmomedits - https://github.com/saimoomedits
+
